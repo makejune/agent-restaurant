@@ -86,7 +86,6 @@ Good naming sounds like:
 
 Bad naming drifts toward:
 
-- generic `SPEC`
 - generic `notes`
 - generic `misc`
 - normal ecommerce wording for everything
